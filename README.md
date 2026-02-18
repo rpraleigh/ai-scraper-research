@@ -1,4 +1,4 @@
-# Gemini 2.5 Pro Site Researcher
+# Site Research Tool
 
 A deep-crawling web researcher built with **Crawl4AI**, **Streamlit**, and **Gemini 2.5 Pro**.
 
